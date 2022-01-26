@@ -1,0 +1,17 @@
+20201129
+1
+sha1用studio获得，密码android，keystore在./android/app
+2
+https://blog.csdn.net/my_yes/article/details/105566186
+20201130
+1
+报undifined
+版本改了写法
+animateto---->setStatus
+https://github.com/qiuxiang/react-native-amap3d/blob/master/example/examples/animated.js
+
+20201207
+adb.exe connect 127.0.0.1:62001
+
+20201210
+position absolute 删除 这样可以显示全地图
